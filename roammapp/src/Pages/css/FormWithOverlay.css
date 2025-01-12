@@ -1,0 +1,57 @@
+.info-button {
+    color: #6c757d;
+    transition: color 0.15s ease-in-out;
+    vertical-align: middle;
+  }
+  
+  .info-button:hover {
+    color: #5a6268;
+  }
+  
+  .form-label {
+    display: inline-flex;
+    align-items: center;
+  }
+    
+
+
+
+
+/* 
+.info-button {
+    color: #6c757d;
+    transition: color 0.15s ease-in-out;
+    vertical-align: middle;
+  }
+  
+  .info-button:hover {
+    color: #5a6268;
+  }
+  
+  .form-label {
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .help-text-container {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+  }
+  
+  .help-text-container.show {
+    max-height: 100px;
+  }
+   
+  .help-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+  } 
+
+
+   */
